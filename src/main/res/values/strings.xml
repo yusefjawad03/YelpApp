@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">YelpApp</string>
+    <string-array name="countries">
+        <item>US</item>
+        <item>South Korea</item>
+        <item>Germany</item>
+        <item>Haiti</item>
+        <item>France</item>
+        <item>Egypt</item>
+        <item>Belgium</item>
+        <item>North Korea</item>
+        <item>Spain</item>
+        <item>Russia</item>
+        <item>Canada</item>
+        <item>Hungary</item>
+        <item>China</item>
+        <item>Peru</item>
+        <item>Chile</item>
+        <item>Honduras</item>
+        <item>Portugal</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
